@@ -25,7 +25,7 @@
         android:layout_marginTop="40dp"
         android:fontFamily="@font/inter_medium"
         android:gravity="center"
-        android:text="Today's weather overview"
+        android:text="@string/weatheroverview"
         android:textColor="#4D4A4A"
         android:textSize="25dp"
         app:layout_constraintTop_toTopOf="parent"

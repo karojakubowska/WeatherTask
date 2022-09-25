@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="50dp"
-            android:text="Weather statistics"
+            android:text="@string/weather_statistics"
             android:textColor="@color/grey"
             android:textSize="30sp" />
 
@@ -44,7 +44,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:text="Lowest temperature from all cities: "
+                android:text="@string/lowest_temp"
                 android:textColor="@color/grey"
                 android:textSize="18sp" />
 
@@ -54,7 +54,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="30dp"
-                android:text="Wait..."
+                android:text="@string/wait"
                 android:textColor="@color/grey"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -77,7 +77,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Lowest average temperature: "
+            android:text="@string/lowest_average_temp"
             android:textColor="@color/grey"
             android:textSize="18sp" />
 
@@ -87,7 +87,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_marginStart="20dp"
-            android:text="Wait..."
+            android:text="@string/wait"
             android:textColor="@color/grey"
             android:textSize="18sp"
             android:textStyle="bold" />
@@ -115,7 +115,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_marginStart="30dp"
-            android:text="Wait..."
+            android:text="@string/wait"
             android:textColor="@color/grey"
             android:textSize="18sp"
             android:textStyle="bold" />

@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">recyclerview</string>
+    <string name="app_name">WeatherTask</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weatheroverview">Today\'s weather overview</string>
+    <string name="weather_statistics">Weather statistics</string>
+    <string name="lowest_temp">Lowest temperature from all cities:</string>
+    <string name="wait">Wait...</string>
+    <string name="lowest_average_temp">Lowest average temperature:</string>
+    <string name="city">City</string>
+    <string name="weather">Weather</string>
 </resources>
